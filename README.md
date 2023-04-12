@@ -44,8 +44,8 @@ Terdapat 7 class yang digunakan pada program ini :
 7. User dapat melakukan delete data dengan mengklik button delete pada Card. Jika user menghapus data artist, maka data album dengan foreign key yg merujuk ke artist tersebut akan ikut terhapus.
 
 `Akun`
-username : dicki
-password : dicki
+- username : dicki
+- password : dicki
 
 ## Dokumentasi
 
