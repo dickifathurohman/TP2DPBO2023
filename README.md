@@ -12,8 +12,8 @@ spesifikasi program yang harus dibuat:
 - List data ditampilkan menggunakan card (JPanel
 
 ## Janji
-Dicki Fathurohman_2103842_Ilmu Komputer TP1 DPBO2023
-Saya Dicki Fathurohman [2103842] mengerjakan TP1 DPBO2023 dalam mata kuliah DPBO, untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikan. Aamiin.
+Dicki Fathurohman_2103842_Ilmu Komputer TP2 DPBO2023
+Saya Dicki Fathurohman [2103842] mengerjakan TP2 DPBO2023 dalam mata kuliah DPBO, untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikan. Aamiin.
 
 ## Desain
 
